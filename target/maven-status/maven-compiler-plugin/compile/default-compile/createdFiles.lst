@@ -1,0 +1,3 @@
+br/com/alura/microservice/auth/WebSecurityConfigurer.class
+br/com/alura/microservice/auth/AuthorizationServerConfigurer.class
+br/com/alura/microservice/auth/AuthApplication.class
